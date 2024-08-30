@@ -1,0 +1,67 @@
+[
+  {
+    "type": "cliente",
+    "codigo": "1",
+    "nombre": "andres",
+    "email": "andres@email.com",
+    "password": "12345",
+    "fotoPerfil": "url",
+    "username": "andres12",
+    "estado": "INACTIVO",
+    "tipoUsuario": "MODERADOR",
+    "telefonos": ["3117188224"],
+    "listaNegociosFavoritos": ["BAR"]
+  },
+  {
+    "type": "cliente",
+    "codigo": "2",
+    "nombre": "mauricio",
+    "email": "mauricio@email.com",
+    "password": "6789",
+    "fotoPerfil": "url",
+    "username": "mauricio12",
+    "estado": "ACTIVO",
+    "tipoUsuario": "MODERADOR",
+    "telefonos": ["3117188224"],
+    "listaNegociosFavoritos": ["CAFETERIA"]
+  },
+  {
+    "type": "cliente",
+    "codigo": "3",
+    "nombre": "hernandez",
+    "email": "hernandez@email.com",
+    "password": "12345",
+    "fotoPerfil": "url",
+    "username": "hernandez12",
+    "estado": "INACTIVO",
+    "tipoUsuario": "MODERADOR",
+    "telefonos": ["3117188224"],
+    "listaNegociosFavoritos": ["TIENDA"]
+  },
+  {
+    "type": "cliente",
+    "codigo": "4",
+    "nombre": "pineres",
+    "email": "pineres@email.com",
+    "password": "6789",
+    "fotoPerfil": "url",
+    "username": "pineres12",
+    "estado": "INACTIVO",
+    "tipoUsuario": "MODERADOR",
+    "telefonos": ["3117188224"],
+    "listaNegociosFavoritos": ["DISCOTECA"]
+  },
+  {
+    "type": "cliente",
+    "codigo": "5",
+    "nombre": "sandra",
+    "email": "sandra@email.com",
+    "password": "6789",
+    "fotoPerfil": "url",
+    "username": "sandra31212",
+    "estado": "INACTIVO",
+    "tipoUsuario": "MODERADOR",
+    "telefonos": ["3117188224"],
+    "listaNegociosFavoritos": ["DISCOTECA"]
+  }
+]
